@@ -1,4 +1,4 @@
-# Doubly-linked list creating and usage  //data-structure 
+# Doubly-linked list 
 - Appending to the end of list - a
 - Inserting to specific position - i value index
 - Removing item by value - r value
